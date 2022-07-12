@@ -12,7 +12,7 @@
 	<atom:link href="https://nguyenquangvinh68.github.io/Sales-Website/product-category/food-drinks/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquangvinh68.github.io/Sales-Website</link>
 	<description>Just another web2 site</description>
-	<lastBuildDate>Fri, 24 Jun 2022 15:06:11 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 Jul 2022 07:44:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -33,6 +33,24 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/black-mulberries/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Thai milk tea</title>
+		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/thai-milk-tea/</link>
+					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/thai-milk-tea/#respond</comments>
+		
+		<dc:creator><![CDATA[Vinh]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2022 09:07:58 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenquangvinh68.github.io/Sales-Website/?post_type=product&#038;p=298</guid>
+
+					<description><![CDATA[The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar]]></description>
+										<content:encoded><![CDATA[<p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/thai-milk-tea/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -177,24 +195,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/e-s-product/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Q. s product</title>
-		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/q-s-product/</link>
-					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/q-s-product/#respond</comments>
-		
-		<dc:creator><![CDATA[Vinh]]></dc:creator>
-		<pubDate>Mon, 13 Jun 2022 08:53:04 +0000</pubDate>
-				<guid isPermaLink="false">https://nguyenquangvinh68.github.io/Sales-Website/?post_type=product&#038;p=277</guid>
-
-					<description><![CDATA[The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar]]></description>
-										<content:encoded><![CDATA[<p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/q-s-product/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
