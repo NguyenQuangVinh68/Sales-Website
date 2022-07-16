@@ -12,7 +12,7 @@
 	<atom:link href="https://nguyenquangvinh68.github.io/Sales-Website/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenquangvinh68.github.io/Sales-Website</link>
 	<description>Just another web2 site</description>
-	<lastBuildDate>Tue, 12 Jul 2022 15:02:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Jul 2022 08:50:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,28 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 	<item>
+		<title>Khóa học</title>
+		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/</link>
+					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/#respond</comments>
+		
+		<dc:creator><![CDATA[Vinh]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 07:03:34 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenquangvinh68.github.io/Sales-Website/?post_type=product&#038;p=1061</guid>
+
+					<description><![CDATA[<div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates optio odio soluta. Magni aut quaerat similique velit assumenda totam corrupti eaque minima rerum fugit excepturi unde facere autem, eos obcaecati distinctio ipsam dolorum architecto sint, blanditiis aperiam laborum incidunt repudiandae cumque. Consequuntur quis hic alias ipsa. Nemo officia id dolore!</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates optio odio soluta. Magni aut quaerat similique velit assumenda totam corrupti eaque minima rerum fugit excepturi unde facere autem, eos obcaecati distinctio ipsam dolorum architecto sint, blanditiis aperiam laborum incidunt repudiandae cumque. Consequuntur quis hic alias ipsa. Nemo officia id dolore!</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>dried potato</title>
 		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/dried-potato/</link>
 					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/dried-potato/#respond</comments>
@@ -177,24 +199,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/banana/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Apple</title>
-		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/tao-tuoi/</link>
-					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/tao-tuoi/#respond</comments>
-		
-		<dc:creator><![CDATA[Vinh]]></dc:creator>
-		<pubDate>Tue, 14 Jun 2022 14:03:55 +0000</pubDate>
-				<guid isPermaLink="false">https://nguyenquangvinh68.github.io/Sales-Website/?post_type=product&#038;p=375</guid>
-
-					<description><![CDATA[The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar]]></description>
-										<content:encoded><![CDATA[<p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/tao-tuoi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Khóa học &#8211; Foods</title>
+	<atom:link href="https://nguyenquangvinh68.github.io/Sales-Website/product-category/khoa-hoc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenquangvinh68.github.io/Sales-Website</link>
+	<description>Just another web2 site</description>
+	<lastBuildDate>Fri, 15 Jul 2022 07:23:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Khóa học</title>
+		<link>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/</link>
+					<comments>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/#respond</comments>
+		
+		<dc:creator><![CDATA[Vinh]]></dc:creator>
+		<pubDate>Fri, 15 Jul 2022 07:03:34 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenquangvinh68.github.io/Sales-Website/?post_type=product&#038;p=1061</guid>
+
+					<description><![CDATA[<div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates optio odio soluta. Magni aut quaerat similique velit assumenda totam corrupti eaque minima rerum fugit excepturi unde facere autem, eos obcaecati distinctio ipsam dolorum architecto sint, blanditiis aperiam laborum incidunt repudiandae cumque. Consequuntur quis hic alias ipsa. Nemo officia id dolore!</div>
+</div>]]></description>
+										<content:encoded><![CDATA[<div>
+<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates optio odio soluta. Magni aut quaerat similique velit assumenda totam corrupti eaque minima rerum fugit excepturi unde facere autem, eos obcaecati distinctio ipsam dolorum architecto sint, blanditiis aperiam laborum incidunt repudiandae cumque. Consequuntur quis hic alias ipsa. Nemo officia id dolore!</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenquangvinh68.github.io/Sales-Website/product/san-pham-ao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
