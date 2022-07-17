@@ -1,6 +1,6 @@
 /**
  * Do not touch this file! This file created by the Popup Maker plugin using PHP
- * Last modified time: Jul 12 2022, 06:40:35
+ * Last modified time: Jul 17 2022, 04:39:43
  */
 
 
@@ -16,7 +16,14 @@
 .pum-theme-630 .pum-container, .pum-theme-default-theme .pum-container { padding: 1px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 0.00 ) } 
 .pum-theme-630 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
 .pum-theme-630 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
-.pum-theme-630 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: 35px; width: 37px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 128, 181, 0, 1.00 ) } 
+.pum-theme-630 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: 35px; width: 37px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 236, 196, 13, 1.00 ) } 
+
+/* Popup Theme 1144: popup */
+.pum-theme-1144, .pum-theme-popup { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-1144 .pum-container, .pum-theme-popup .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-1144 .pum-title, .pum-theme-popup .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-1144 .pum-content, .pum-theme-popup .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-1144 .pum-content + .pum-close, .pum-theme-popup .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 236, 196, 13, 1.00 ) } 
 
 /* Popup Theme 631: Light Box */
 .pum-theme-631, .pum-theme-lightbox { background-color: rgba( 0, 0, 0, 0.60 ) } 
